@@ -23,7 +23,7 @@
 #   url: /markdown/
  
 main:
-  - title: "Portfolio"
+  - title: "Research Projects"
     url: /portfolio/
     
   - title: "Publications"
