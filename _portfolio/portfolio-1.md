@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Handbook for New Graduate Students in TDLAS"
+excerpt: "This is a comprehensive review of theory, and practical implemention aspects of TDLAS diagnostics, aimed at new graduate students or researchers in the field. I have reviewed the material many many times but if any typos or mistakes are found please research out to me by email. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
