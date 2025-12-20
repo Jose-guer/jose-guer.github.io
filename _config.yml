@@ -222,6 +222,12 @@ kramdown:
 # Enable MathJax site-wide
 mathjax: true
 
+mathjax_config:
+  tex:
+    inlineMath:
+      - ['$', '$']
+      - ['\\(', '\\)']
+      
 # These settings control the types of collections used by the template
 collections:
   teaching:
