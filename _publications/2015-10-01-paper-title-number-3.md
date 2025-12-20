@@ -6,7 +6,7 @@ permalink:
 excerpt: ''
 date: 2025-01-01
 venue: 'AIAA SciTech Fourm'
-slidesurl: ''
+slidesurl:
 paperurl: 'https://doi.org/10.2514/6.2025-0800'
 citation: 'Guerrero, Jose, and Mirko Gamba. "Combustion Efficiency Measurements in a Rotating Detonation Engine Using Scanned-Wavelength-Modulation Spectroscopy." AIAA SCITECH 2025 Forum. 2025.'
 ---
