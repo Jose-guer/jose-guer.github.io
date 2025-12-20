@@ -3,7 +3,7 @@ title: "Quantifying Combustion Efficiency in Rotating Detonation Engines Using M
 collection: publications
 category: manuscripts
 permalink: 
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '($\Phi \approx$ 0.55–1.5)'
 date: 2026-01-01
 venue: 'Combustion and Flame (under review)'
 slidesurl: 
