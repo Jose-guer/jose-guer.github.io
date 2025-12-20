@@ -2,7 +2,7 @@
 title: "Quantifying Combustion Efficiency in Rotating Detonation Engines Using MHz-Rate Scanned-Wavelength-Modulation Spectroscopy"
 collection: publications
 category: manuscripts
-permalink: ''
+permalink: 
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026
 venue: 'Combustion and Flame (under review)'
