@@ -23,7 +23,7 @@ repository               : "https://github.com/Jose-guer/jose-guer.github.io.git
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_picture.jpg"
   name             : "Jose Guerrero"
   pronouns         : # example: "she/her"  
   bio              : "5th year PhD candidate in Aerospace Engineering at the University of Michigan"
