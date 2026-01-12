@@ -7,7 +7,7 @@ excerpt: ''
 date: 2026-01-01
 venue: 'AIAA SciTech Fourm'
 slidesurl: 
-paperurl: 
+paperurl: 'https://doi.org/10.2514/6.2026-2239'
 citation: 'Guerrero, Jose, and Mirko Gamba. "Quantifying Deflagration Losses in Rotating Detonation Combustors." AIAA SCITECH 2026 Forum. 2026.'
 ---
 
