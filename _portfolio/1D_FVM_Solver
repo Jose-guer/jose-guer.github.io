@@ -1,17 +1,18 @@
 ---
 title: "Finite Volume Method (FVM) Solver"
-excerpt: "First-order accurate, 1D-FVM solver, for quasi-1D flows with friction and heat release  <br/><img src='/images/Mach_contour.png' width='500'>" 
+excerpt: "First-order accurate, FVM solver, for quasi-1D flows with friction and heat release.  <br/><img src='/images/Mach_contour.png' width='500'>" 
 collection: portfolio
 ---
 
 <br/><img src='/images/Mach_contour.png' width='500'>
 
 <p>
-  A Finite Volume Method (FVM) solver for the quasi-1D conservation equations is implemented in MATLAB. The solver is first-order accurate in space and employs a Roe flux scheme to resolve shocks, contact discontinuities, and expansion waves. Chemical reactions for hydrogen-air mixtures are incorporated by prescribing the axial variation in species composition based on a published chemical equilibrium model.
+  A Finite Volume Method (FVM) solver for the quasi-1D conservation equations is implemented in MATLAB. The solver is first-order accurate in space and employs a Roe flux scheme to resolve shocks, contact discontinuities, and expansion waves. Chemical reactions for hydrogen-air mixtures are modeled by prescribing the axial variation in species composition based on a published chemical equilibrium model.
 </p>
 
 <p>
   Guerrero, Jose I., and Mirko Gamba. "Quantifying combustion efficiency in rotating detonation engines using MHz-rate scanned-wavelength-modulation spectroscopy." Combustion and Flame 285 (2026).
+  <a href="https://doi.org/10.1016/j.combustflame.2025.114744" target="_blank" rel="noopener">DOI Link</a>.
 </p>
 
 <p>
