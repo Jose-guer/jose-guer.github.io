@@ -1,10 +1,10 @@
 ---
 title: "Finite Volume Method (FVM) Solver"
-excerpt: "First-order accurate, 1D-FVM solver, for quasi-1D flows with friction and heat release  <br/><img src='/images/XTdiagram.png' width='500'>" 
+excerpt: "First-order accurate, 1D-FVM solver, for quasi-1D flows with friction and heat release  <br/><img src='/images/Mach_contour.png' width='500'>" 
 collection: portfolio
 ---
 
-<br/><img src='/images/XTdiagram.png' width='500'>
+<br/><img src='/images/Mach_contour.png' width='500'>
 
 <p>
   A Finite Volume Method (FVM) solver for the quasi-1D conservation equations is implemented in MATLAB. The solver is first-order accurate in space and employs a Roe flux scheme to resolve shocks, contact discontinuities, and expansion waves. Chemical reactions for hydrogen-air mixtures are incorporated by prescribing the axial variation in species composition based on a published chemical equilibrium model.
