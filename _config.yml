@@ -24,9 +24,9 @@ repository               : "https://github.com/Jose-guer/jose-guer.github.io.git
 author:
   # Biographic information
   avatar           : "profile_picture.jpg"
-  name             : "Jose Guerrero"
+  name             : "Jose Guerrero, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "5th year PhD candidate in Aerospace Engineering at the University of Michigan"
+  bio              : "NRC Postdoctoral Fellow at AFRL | Ph.D. Aerospace Engineering"
   location         : "Ann Arbor, Michigan"
   employer         : "University of Michigan, Ann Arbor"
   uri              : # URL
