@@ -5,7 +5,7 @@ category: conferences
 permalink: 
 excerpt: ''
 date: 2026-05-01
-venue: 'International Workshop on Detonation for Propulsion, 2026'
+venue: 'International Workshop on Detonation for Propulsion'
 paperurl: 'https://www.detonation-society.jp/assets/pdf/Oral50+1_Abstract_PDF(iwdp2026)/2_Gamba.pdf'
 citation: 'Guerrero, Jose, and Mirko Gamba. "Experimental Studies on the Quantification of Deflagration in Rotating Detonation Combustors." International Workshop on Detonation for Propulsion 2026.'
 ---
