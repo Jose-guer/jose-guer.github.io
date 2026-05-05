@@ -1,4 +1,3 @@
-
 ---
 title: "Experimental Studies on the Quantification of Deflagration in Rotating Detonation Combustors"
 collection: publications
