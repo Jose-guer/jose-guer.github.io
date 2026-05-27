@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. Here, I share selected research projects and open-source codes developed during my PhD research for use by the broader research community in personal and academic applications.
+Welcome to my personal website. Here, I share selected research projects and open-source codes developed during my PhD for use by the broader community in personal and academic applications.
 
 Bio
 ======
