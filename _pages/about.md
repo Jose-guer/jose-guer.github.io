@@ -16,6 +16,6 @@ I earned my B.S. in Aerospace Engineering from UCLA in 2021, where I graduated *
 
 Under the supervision of Professor Mirko Gamba, I began my doctoral studies in Aerospace Engineering at the University of Michigan in September 2021 and completed my degree in May 2026.  My research focused on quantifying energy conversion processes in rotating detonation combustors, with particular emphasis on combustion efficiency and deflagration loss mechanisms. This work leveraged advanced laser diagnostic techniques such as tunable diode laser absorption spectroscopy, reduced-order modeling, and traditional high-speed imaging and pressure transducers to interrogate the RDC flow field. 
 
-Currently, I am an incoming NRC Postdoctoral Fellow at the Air Force Research Laboratory (AFRL) at Wright-Patterson AFB. In my free time I enjoy running, playing chess, watching football, and traveling!
+Currently, I am an NRC Postdoctoral Fellow at the Air Force Research Laboratory (AFRL) at Wright-Patterson AFB. In my free time I enjoy running, playing chess, watching football, and traveling!
 
 
